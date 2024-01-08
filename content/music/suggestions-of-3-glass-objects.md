@@ -1,6 +1,6 @@
 +++
 title = "Suggestions of Three Glass Objects for Percussion Ensemble"
-description = "alternately grating/cutesy music for percussion"
+description = "spirally music for drums and mallet instruments"
 date = 2022-12-05
 +++
 

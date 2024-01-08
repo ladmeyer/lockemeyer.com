@@ -14,7 +14,9 @@
 <ul class="titleList">
 {% for page in pages %}
   <li>
-    <a href="{{ page.permalink | safe }}"><b>{{ page.title }}</b> -- {{ page.description }}</a>
+    <a href="{{ page.permalink | safe }}"><b>{{ page.title }}</b></a>
+    <br>
+    {{ page.description }}
   </li>
 {% endfor %}
 </ul>

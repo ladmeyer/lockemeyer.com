@@ -1,7 +1,7 @@
 +++
 +++
 
-## Hello, I'm Locke.
+## Hello! I'm Locke.
 
 Welcome to my website! Not sure where to start? Here are some ideas.
 - read [about](/about) me

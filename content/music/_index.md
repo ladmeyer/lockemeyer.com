@@ -1,6 +1,6 @@
 +++
 title = "Music"
 sort_by = "date"
-template = "music.html"
+template = "dated-section.html"
 page_template = "page.html"
 +++
