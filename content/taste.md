@@ -1,5 +1,5 @@
 +++
-title = "My taste"
+title = "Taste"
 +++
 - ### Food
     Curry (Thai or Japanese) \

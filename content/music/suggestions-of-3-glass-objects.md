@@ -8,7 +8,7 @@ I. - Falling Upwards, Through a Barrier
 <br>
 
 <audio controls>
-  <source src="/recordings/glass-1.wav" type="audio/wav">
+  <source src="/recordings/glass-1.mp3" type="audio/mp3">
 </audio>
 
 <br>
@@ -17,7 +17,7 @@ II. - Lifting the Lid of a Music Box; Three Figurines
 <br>
 
 <audio controls>
-  <source src="/recordings/glass-2.wav" type="audio/wav">
+  <source src="/recordings/glass-2.mp3" type="audio/mp3">
 </audio>
 
 <br>
@@ -25,7 +25,7 @@ II. - Lifting the Lid of a Music Box; Three Figurines
 III. - Lens Dance
 <br>
 <audio controls>
-    <source src="/recordings/glass-3.wav" type="audio/wav">
+    <source src="/recordings/glass-3.mp3" type="audio/mp3">
 </audio>
 <br>
 

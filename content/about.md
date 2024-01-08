@@ -21,3 +21,17 @@ My main goal in life is to have a modestly-sized garden where I can grow herbs a
 
 ## This Website 
 [lockemeyer.com](https://lockemeyer.com/) is my personal website. It is built using [Zola](https://www.getzola.org/) with the [anemone](https://www.getzola.org/themes/anemone/) theme. Its chief purpose is to host things I've made that I think merit sharing with other people, but it also serves as a general repository for stuff I find funny or interesting. It is designed to contain hidden passages and secret treasures.  Many thanks to my friend [Satya Benson](https://satchlj.com/), whose open-source personal website helped me out a lot in the process of coding it up.
+
+## Gallery
+![Locke in a big suit](/big-suit.jpg)
+<br>
+*Talking Heads cover band "The Talking Heads" perform at Coverchella 2022*
+
+![Locke getting painted](/portrait.jpg)
+<br>
+*my friend Clem finishing a portrait of me*
+
+![Evil Locke at the Grand Canyon](/dark-locke.jpg)
+<br>
+*at the Grand Canyon, my smuggest moment ever*
+

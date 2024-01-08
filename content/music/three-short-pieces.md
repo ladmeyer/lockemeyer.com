@@ -8,7 +8,7 @@ I. - Allegretto
 <br>
 
 <audio controls>
-  <source src="/recordings/three-short-pieces-1.wav" type="audio/wav">
+  <source src="/recordings/three-short-pieces-1.mp3" type="audio/mp3">
 </audio>
 
 <br>
@@ -17,7 +17,7 @@ II. - Andante
 <br>
 
 <audio controls>
-  <source src="/recordings/three-short-pieces-2.wav" type="audio/wav">
+  <source src="/recordings/three-short-pieces-2.mp3" type="audio/mp3">
 </audio>
 
 <br>
@@ -26,7 +26,7 @@ III. - Rondo. Allegro
 <br>
 
 <audio controls>
-    <source src="/recordings/three-short-pieces-3.wav" type="audio/wav">
+    <source src="/recordings/three-short-pieces-3.mp3" type="audio/mp3">
 </audio>
 
 <br>
