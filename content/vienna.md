@@ -29,4 +29,4 @@ template = "page.html"
 5. The taste of Linzertorte, a local specialty consisting of a nutty shortbread and redcurrant preserves.
 I was exhausted by the end. Am hoping to return some weekend to see the Lentos Art Museum.
 
-**2/1** -- In the morning, dropped off my Meldezettel, or housing registration form, with the city government so they don't fine me €726. The Austrian equivalent of a DMV seemed to be running much more efficiently than the ones I've been to in St. Louis, but that's a small sample size. So who knows. 
+**2/1** -- In the morning, dropped off my Meldezettel, or housing registration form, with the city government so they don't fine me €726. The Austrian equivalent of a DMV seemed to be running much more efficiently than the ones I've been to in St. Louis, but that's a small sample size. So who knows!
