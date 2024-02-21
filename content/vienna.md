@@ -61,4 +61,10 @@ I was exhausted by the end. Am hoping to return some weekend to see the Lentos A
 
 **2/16** -- Didn't do much besides attend German class in the morning. 
 
-**2/17** -- Went to the Naschmarkt in the morning. Very cool open-air market with endless stalls selling various foodstuffs and also flea market junk/treasure, but was a little overwhelmings. Would like to go back once in a better mood.
+**2/17** -- Went to the Naschmarkt in the morning. Very cool open-air market with endless stalls selling various foodstuffs and also flea market junk/treasure, but was a little overwhelming. Would like to go back once in a better mood.
+
+**2/18** -- Jogged around the 5th district, which was a nicely re-invigorating experience. Caught up on homework and practiced clarinet in preparation for upcoming rehearsals.
+
+**2/19** -- Went on another run in the morning, felt similarly great. I followed the path of the U4 line into the 6th district -- turns out running is a really great way to get to know a city. Later in the day, attended the second meeting of the acoustics class, which was again very interesting. Talked a lot about decibels, hearing loss thresholds.
+
+**2/20** -- Very full and satisfying day. Following morning German class, had a piano coaching with Chihiro Gordon (also my professor for the chamber music workshop class). I brought Debussy's Premiere Rhapsody to work on, since its the piece I'm considering playing for next year's concerto competition at Williams. Since it was my first time playing the piece with an accompanist, things were fairly choppy throughout our first run-through. Over the course of the hour, though, I got a lot of good feedback (sustained airflow big one to remember; I feel like this is an aspect of my playing that always suffers when I haven't been in lessons for a while) and felt poised to make great progress on the piece in the coming days. Later, had rehearsals for Tarantella (w/ oboe + flute) and Heimatlied (w/ piano and vocalist). Both went well. 
