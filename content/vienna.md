@@ -75,4 +75,26 @@ I was exhausted by the end. Am hoping to return some weekend to see the Lentos A
 
 **2/23** -- After German in the morning, met up with a different friend from Williams (apparently everyone is visiting this week!) and headed to the Kunsthistoriches [art history] museum, which is the largest museum in Austria. Spent a few hours exploring their collection of Flemish/Dutch paintings. Saw works by Rembrandt, Vermeer, Van Eyck, Rubens, but the best part was the room containing the largest collection of paintings by Pieter Breugel the Elder in the world. Crazy to behold what he's doing -- paintings with like 100 guys all doing their own thing / also depictions of religious & mythological scenes (think Fall of Icarus, Christ carrying the cross) where the main subject takes up like 1/50th of the total space. I was instantly made a fan. We got overpriced coffee in the museum cafe afterwards, and I had my first Einspänner, which is a double espresso topped with whipped cream. Yeah alright pretty yummy.
 
-**2/24** -- After a few hours of practice on my own and with other people in my chamber ensembles, I was treated to a delicious homemade leek soup by a roommate :). Following this, we went together to hear Mahler's Symphony 2, which was just incredible obviously. The power of the final climax had me weeping in the standing room. Music !!!
+**2/24** -- After a few hours of practice on my own and with other people in my chamber ensembles, I was treated to a delicious homemade leek soup by a roommate :). Following this, we went together to hear Mahler's Symphony 2, which was just incredible obviously. The power of the final climax had me weeping amid the crowd of people in standing room. Music !!!
+
+**2/25** -- Main event of the day was a trip to Prater, a sprawling outdoor Six Flags-esque amusement park. Went with a few friends. The place is unique in that the rides/attractions are all operated independently, so there's no way to know what will actually be open when you show up and the aesthetic of the whole complex is really all over the place in an off-kilter & kind of fun way. The most famous thing is the Vienna Riesenrad (Ferris Wheel), an icon of the city. Tickets for the rides are a la carte; we didn't actually ride anything, just walked around and enjoyed the nice weather & spectacle of the place.
+
+**2/26** -- Very chill day. Went for a run in the morning and saw more of the district (always nice) and spent the afternoon/evening catching up on work and hanging out with friends.
+
+**2/27** -- Nothing crazy exciting today either. Had acoustics class, spent a while practicing later in the day. Cooked yummy pasta at night.
+
+**2/28** -- Met a fellow music student for coffee at Cafe Hawelka -- great ambience, lots of wood -- and afterwards, we visited Musikhaus Döblinger, a music store in Vienna that's been around for 1817. They had a lot of cool stuff, including conducting batons. I spent a while looking for some interesting clarinet music, but the sheet music they sold was almost entirely for solo piano. Ended up buying a nice Henle edition of the Goldberg Variations to practice from, as well as a new pad of manuscript paper, since I've finished the notebook I brought with me to use.
+
+**2/29** -- Did a big apartment-merger hangout with some students in the building next to ours, and afterwards, went out with some of them to a club. Again, fun and interesting, but confirmed that it isn't really for me. Will probably not be returning, at least for the rest of my time abroad.
+
+**3/1** -- Most of the people I'm living with left in the morning for a ski trip, so the apartment was quieter than usual. Had a pretty lazy day, catching up on rest and doing a little bit of work.
+
+**3/2** -- Another lazy day; mostly caught up on work and practiced for a bit. Unfortunately, the hot water heater in our apartment broke, so we currently lack the ability to shower. In the evening, Aaron and I cooked up a big batch of Thai green curry for myself and roommates, which felt good. It mostly turned out, but I neglected to account for the water retained in the rice from washing it and it came out a little gloopy. Learning experience!
+
+**3/3** -- First Sunday of the month, so many museums were free. Ended up going with a few friends to  the Uhrmuseum (clock museum), which surpassed my expectations. Lots of very unique pocketwatches (shaped like a violin, pear, etc.), various automata (cuckoo clocks), musical clocks, and paintings incorporating working clocks into their scenes. On our walk back to the subway station through the 1st district, we saw a pro-Palestinian demonstration which was only 4 or 5 people with a megaphone and flags being escorted by two police officers; the group was more or less being ignored by the crowds of people walking through the street. Water heater still broken.
+
+**3/4** -- I finally relented and visited a neighboring apartment, where some of our friends live, to use their shower. Felt very good to get clean. Luckily, a few hours after this, a plumber finally came and fixed our water heater. HUGE relief. Other than this, not much to report.
+
+**3/5** --
+
+
