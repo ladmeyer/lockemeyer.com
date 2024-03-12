@@ -4,9 +4,8 @@ title = "Now"
 
 I'm a junior at Williams College in Massachusetts studying music and computer science.
 
-I just arrived in [Vienna](/vienna) to study abroad. I'm hoping to meet a lot of new people,
-see a lot of concerts, explore the city, and learn to speak a good amount of German.
+Right now, I'm in Vienna studying abroad. I'm living in an apartment in the 5th district with six other people, who I've become quite close with. I'm working on my German, seeing lots of concerts from standing room at the Musikverein, visiting museums, and making music.
 
-This is a Now page, last updated January 23rd, 2024. \
+This is a Now page, last updated March 12th, 2024. \
 Read more about Now pages [here](https://nownownow.com/about).
 
